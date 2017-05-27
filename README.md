@@ -1,5 +1,7 @@
 # The-Bee-List
 
+[VISIT SITE](http://the-bee-list.herokuapp.com/)
+
 An bucket list application that allows users to add items to various bucket list categories, and to follow friends' bucket lists.
 
 ## Contributors:
